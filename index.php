@@ -100,7 +100,7 @@ if(isset($_POST['submit'])){
         <div class="row align-items-center">
 
             <div class="col-md-6 image">
-                <img src="images/gums.png" class="w-100 mb-5 mb-md-0" alt="">
+                <img src="gums.png" class="w-100 mb-5 mb-md-0" alt="">
             </div>
 
             <div class="col-md-6 content">
@@ -126,55 +126,55 @@ if(isset($_POST['submit'])){
     <div class="box-container container">
 
         <div class="box">
-            <img src="images/dentist.svg" alt="">
+            <img src="dentist.svg" alt="">
             <h3>General Dentistry</h3>
             <p>Routine checkups, cleanings, fillings, and preventive care for overall oral health.</p>
         </div>
 
         <div class="box">
-            <img src="images/ortho.png" alt="">
+            <img src="ortho.png" alt="">
             <h3>Orthodontic Services</h3>
             <p>Braces and Invisalign treatments for teeth alignment and improved smiles.</p>
         </div>
 
         <div class="box">
-            <img src="images/cosme.png" alt="">
+            <img src="cosme.png" alt="">
             <h3>Cosmetic Dentistry</h3>
             <p>Teeth whitening, veneers, and smile makeovers for a more confident you.</p>
         </div>
 
         <div class="box">
-            <img src="images/orals.png" alt="">
+            <img src="orals.png" alt="">
             <h3>Oral Surgery</h3>
             <p>Tooth extractions, wisdom teeth removal, and other surgical procedures.</p>
         </div>
 
         <div class="box">
-            <img src="images/emer.png" alt="">
+            <img src="emer.png" alt="">
             <h3>Emergency Dental Care</h3>
             <p>Prompt care for dental emergencies like toothaches, broken teeth, or injuries.</p>
         </div>
 
         <div class="box">
-            <img src="images/impss.png" alt="">
+            <img src="impss.png" alt="">
             <h3>Implants and Restorations</h3>
             <p>Dental implants, crowns, bridges, and dentures for restoring missing teeth.</p>
         </div>
 
         <div class="box">
-            <img src="images/ped.jpg" alt="">
+            <img src="ped.jpg" alt="">
             <h3>Pediatric Dentistry</h3>
             <p>Comprehensive dental care for children, including cleanings, sealants, and fluoride treatments.</p>
         </div>
 
         <div class="box">
-            <img src="images/perio.png" alt="">
+            <img src="perio.png" alt="">
             <h3>Periodontal Care</h3>
             <p>Gum disease treatment and prevention to ensure long-term oral health.</p>
         </div>
 
         <div class="box">
-            <img src="images/teeth.png" alt="">
+            <img src="teeth.png" alt="">
             <h3>Teeth Whitening</h3>
             <p>Professional whitening treatments for a brighter, more radiant smile.</p>
         </div>
@@ -193,19 +193,19 @@ if(isset($_POST['submit'])){
     <div class="box-container container">
 
         <div class="box">
-            <img src="images/procs.png" alt="">
+            <img src="procs.png" alt="">
             <h3>Initial Consultation</h3>
             <p>We begin by listening to our patients’ concerns and thoroughly assessing their oral health to understand their needs.</p>
         </div>
 
         <div class="box">
-            <img src="images/procss.png" alt="">
+            <img src="procss.png" alt="">
             <h3>Personalized Treatment Plan</h3>
             <p>Based on the consultation, we create a customized treatment plan designed to address specific dental concerns and goals.</p>
         </div>
 
         <div class="box">
-            <img src="images/procsa.png" alt="">
+            <img src="procsa.png" alt="">
             <h3>Careful Execution and Aftercare</h3>
             <p>Our team provides professional dental procedures while ensuring patient comfort and offering detailed aftercare instructions.</p>
         </div>
@@ -226,7 +226,7 @@ if(isset($_POST['submit'])){
 <div class="box-container container">
 
     <div class="box">
-        <img src="images/wanayts.jpg" alt="">
+        <img src="wanayts.jpg" alt="">
         <p>Our expert programmer brought innovative solutions to the website, ensuring seamless functionality and optimal user experience.</p>
         <div class="stars">
             <i class="fas fa-star"></i>
@@ -240,7 +240,7 @@ if(isset($_POST['submit'])){
     </div>
 
     <div class="box">
-        <img src="images/genesis.jpg" alt="">
+        <img src="genesis.jpg" alt="">
         <p>Our front-end designer, transformed the visual appeal of the website with a user-friendly and visually engaging interface.</p>
         <div class="stars">
             <i class="fas fa-star"></i>
@@ -254,7 +254,7 @@ if(isset($_POST['submit'])){
     </div>
 
     <div class="box">
-        <img src="images/ayen.jpg" alt="">
+        <img src="ayen.jpg" alt="">
         <p>Was responsible for Front-end development, ensuring smooth data integration and robust website performance.</p>
         <div class="stars">
             <i class="fas fa-star"></i>
@@ -268,7 +268,7 @@ if(isset($_POST['submit'])){
     </div>
 
     <div class="box">
-        <img src="images/concha.jpg" alt="">
+        <img src="concha.jpg" alt="">
         <p>UX/UI designer, focused on crafting intuitive user interfaces to enhance the experience of navigating the website.</p>
         <div class="stars">
             <i class="fas fa-star"></i>
@@ -296,7 +296,7 @@ if(isset($_POST['submit'])){
     </div>
 
     <div class="box">
-        <img src="images/serrano.jpg" alt="">
+        <img src="serrano.jpg" alt="">
         <p>The website project manager, kept everything on track and ensured that all team members collaborated efficiently.</p>
         <div class="stars">
             <i class="fas fa-star"></i>
